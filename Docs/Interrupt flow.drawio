@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T14:41:24.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ERh1RuJcfBOuUhEFen5H" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T14:41:42.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="h_MgXcqgoyMWFSYj7o8J" version="21.1.8" type="github">
   <diagram name="Page-1" id="JJRbDX38c3A1kodHugt0">
     <mxGraphModel dx="3482" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-8BxjjdGAjTVkxXBuWPM-1" value="Hardware" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="-8BxjjdGAjTVkxXBuWPM-1" value="Hardware / memory" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-2040" y="30" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-8BxjjdGAjTVkxXBuWPM-2" value="CPU" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
